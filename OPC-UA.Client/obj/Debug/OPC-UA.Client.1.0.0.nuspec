@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>OPC-UA.Client</id>
+    <version>1.0.0</version>
+    <title>OPC UA Client</title>
+    <authors>OPC-UA.Client</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="OPCFoundation.NetStandard.Opc.Ua.Client" version="1.5.372.1-rc" exclude="Build,Analyzers" />
+        <dependency id="Serilog" version="3.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\SUS_Nuget\OPC-UA.Client\OPC-UA.Client\bin\Debug\net6.0\OPC-UA.Client.dll" target="lib\net6.0\OPC-UA.Client.dll" />
+  </files>
+</package>

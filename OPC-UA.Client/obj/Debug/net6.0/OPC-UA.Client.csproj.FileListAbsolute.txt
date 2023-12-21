@@ -1,0 +1,12 @@
+C:\SUS_Nuget\OPC-UA.Client\OPC-UA.Client\bin\Debug\net6.0\OPC-UA.Client.deps.json
+C:\SUS_Nuget\OPC-UA.Client\OPC-UA.Client\bin\Debug\net6.0\OPC-UA.Client.dll
+C:\SUS_Nuget\OPC-UA.Client\OPC-UA.Client\bin\Debug\net6.0\OPC-UA.Client.pdb
+C:\SUS_Nuget\OPC-UA.Client\OPC-UA.Client\obj\Debug\net6.0\OPC-UA.Client.csproj.AssemblyReference.cache
+C:\SUS_Nuget\OPC-UA.Client\OPC-UA.Client\obj\Debug\net6.0\OPC-UA.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\SUS_Nuget\OPC-UA.Client\OPC-UA.Client\obj\Debug\net6.0\OPC-UA.Client.AssemblyInfoInputs.cache
+C:\SUS_Nuget\OPC-UA.Client\OPC-UA.Client\obj\Debug\net6.0\OPC-UA.Client.AssemblyInfo.cs
+C:\SUS_Nuget\OPC-UA.Client\OPC-UA.Client\obj\Debug\net6.0\OPC-UA.Client.csproj.CoreCompileInputs.cache
+C:\SUS_Nuget\OPC-UA.Client\OPC-UA.Client\obj\Debug\net6.0\OPC-UA.Client.dll
+C:\SUS_Nuget\OPC-UA.Client\OPC-UA.Client\obj\Debug\net6.0\refint\OPC-UA.Client.dll
+C:\SUS_Nuget\OPC-UA.Client\OPC-UA.Client\obj\Debug\net6.0\OPC-UA.Client.pdb
+C:\SUS_Nuget\OPC-UA.Client\OPC-UA.Client\obj\Debug\net6.0\ref\OPC-UA.Client.dll
